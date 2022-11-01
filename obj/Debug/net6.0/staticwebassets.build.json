@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uB9BImHUFyoTOEVHzCTorRoZFjqvfQBPuOcF2wMv9cQ=",
+  "Source": "RookiesWebAPI",
+  "BasePath": "_content/RookiesWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
