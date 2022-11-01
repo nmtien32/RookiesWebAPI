@@ -1,4 +1,4 @@
-namespace RookiesMVC.Models;
+namespace RookiesWebAPI.Models;
 
 public class ErrorViewModel
 {

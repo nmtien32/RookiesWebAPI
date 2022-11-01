@@ -8,9 +8,7 @@ namespace RookiesWebAPI.Controllers;
 public class PersonController : ControllerBase
 {
     private readonly IPersonService _personService;
-
     private readonly ILogger<PersonController> _logger;
-
     public PersonController(ILogger<PersonController> logger, IPersonService personService)
     {
         _logger = logger;
