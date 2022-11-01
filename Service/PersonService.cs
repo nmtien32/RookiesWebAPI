@@ -1,7 +1,7 @@
 using System;
 using RookiesWebAPI.Models;
 
-namespace RookiesMVC.Service
+namespace RookiesWebAPI.Service
 {
     public class PersonService : IPersonService
     {
